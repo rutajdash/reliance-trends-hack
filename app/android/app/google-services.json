@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "972915612797",
+    "project_id": "jio-fashion-hack",
+    "storage_bucket": "jio-fashion-hack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972915612797:android:6862fe0cfb3018c3f5e514",
+        "android_client_info": {
+          "package_name": "live.neophyte.jio_fashion_hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972915612797-bifpmdfjarp7u87aap7152aia0frvjn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXDFENqcW3emmsqs9YbXDka6u_kn6l9ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972915612797-bifpmdfjarp7u87aap7152aia0frvjn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972915612797-0odtpra7t4ljehi5a6tg5lg7buus01f8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "live.neophyte.jioFashionHack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

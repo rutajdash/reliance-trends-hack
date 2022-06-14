@@ -1,0 +1,41 @@
+name: jio_fashion_hack
+description: CounterTop Item Checker using Computer Vision for Jio Fashion
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+
+dependencies:
+  auto_route: ^4.0.1
+  camera: ^0.9.8
+  cloud_firestore: ^3.1.17
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^3.3.19
+  firebase_core: ^1.17.1
+  firebase_storage: ^10.2.17
+  fl_chart: ^0.51.0
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^1.1.0
+  path: ^1.8.1
+  path_provider: ^2.0.11
+
+dev_dependencies:
+  auto_route_generator: ^4.0.0
+  build_runner: ^2.1.11
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/i18n/en.json
+    - assets/images/logo.gif
+    - assets/images/dashboard-icon.svg
+    - assets/images/scanning.png
